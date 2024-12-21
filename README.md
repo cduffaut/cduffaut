@@ -17,10 +17,11 @@
   - 
 
 <h2>📑 Certifications</h2>
-- 
+  - 
+  - 
 <h2>📺 YouTube Videos</h2>
 
-- [Understand the logic behind reverse engeneering from zero (FR)](https://www.youtube.com/watch?v=FGiS0pTf1x4&t=1092s)
+  - [Understand the logic behind reverse engeneering from zero (FR)](https://www.youtube.com/watch?v=FGiS0pTf1x4&t=1092s)
 
 <h2> 🤳 Connect with me:</h2>
 
