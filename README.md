@@ -9,7 +9,7 @@
 
 <h2>🤳 Connect with me:</h2>
 
-[<img align="left" alt="cduffaut | LinkedIn" width="22px" src="https://raw.githubusercontent.com/ton-repo/ton-dossier/main/linkedin-color.svg" />][linkedin]
+[<img align="left" alt="cduffaut | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 [<img align="left" alt="cduffaut | YouTube" width="22px" src="https://img.icons8.com/color/48/youtube-play.png" />][youtube]
 
 [linkedin]: https://www.linkedin.com/in/cécile-duffaut-7524b8305/
