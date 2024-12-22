@@ -10,7 +10,7 @@
 <h2>🤳 Connect with me:</h2>
 
 [<img align="left" alt="cduffaut | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" width="32px" style="fill: #FF0000;" />][youtube]
+<img align="left" alt="cduffaut | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="fill: #FF0000;" />[youtube]
 
 [linkedin]: https://www.linkedin.com/in/cécile-duffaut-7524b8305/
 [youtube]: https://www.youtube.com/@cecilealicemarie
