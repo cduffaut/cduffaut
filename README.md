@@ -3,7 +3,7 @@
 <h2>👨‍💻 Explore my software development projects!</h2>
 
   - [Click here for full access to projects: 42, cybersecurity, and other general work](https://github.com/cduffaut?tab=repositories)
-<h2>📺 YouTube Videos</h2>
+<h2>📺 YouTube videos</h2>
 
   - [Understand the Logic Behind Reverse Engineering from Scratch (FR)](https://www.youtube.com/watch?v=FGiS0pTf1x4&t=1092s)
 
