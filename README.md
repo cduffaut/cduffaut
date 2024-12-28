@@ -3,10 +3,10 @@
 <h2>👨‍💻 Explore my software development projects!</h2>
 
 <h3> 42 common core: Software Engineering</h3>
-  - [Click here for full access to 42 common core projects]([https://github.com/cduffaut?tab=repositories](https://github.com/cduffaut/42-projects-while-common-core))
+  - [Click here for full access to 42 common core projects](https://github.com/cduffaut?tab=repositories](https://github.com/cduffaut/42-projects-while-common-core)
 
 <h3> 42 common core: Software Engineering</h3>
-  - [Click here for full access to 42 cybersecurity projects]([https://github.com/cduffaut?tab=repositories](https://github.com/cduffaut/42-projects-specializing-in-cybersecurity))
+  - [Click here for full access to 42 cybersecurity projects](https://github.com/cduffaut?tab=repositories](https://github.com/cduffaut/42-projects-specializing-in-cybersecurity)
 <h3> All Projects</h3>
   - [Click here for full access to all the projects created](https://github.com/cduffaut?tab=repositories)
 
