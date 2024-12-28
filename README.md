@@ -2,7 +2,14 @@
 
 <h2>👨‍💻 Explore my software development projects!</h2>
 
-  - [Click here for full access to projects: 42, cybersecurity, and other general work](https://github.com/cduffaut?tab=repositories)
+<h3> 42 common core: Software Engineering</h3>
+  - [Click here for full access to 42 common core projects]([https://github.com/cduffaut?tab=repositories](https://github.com/cduffaut/42-projects-while-common-core))
+
+<h3> 42 common core: Software Engineering</h3>
+  - [Click here for full access to 42 cybersecurity projects]([https://github.com/cduffaut?tab=repositories](https://github.com/cduffaut/42-projects-specializing-in-cybersecurity))
+<h3> All Projects</h3>
+  - [Click here for full access to all the projects created](https://github.com/cduffaut?tab=repositories)
+
 <h2>📺 YouTube videos</h2>
 
   - [Understand the Logic Behind Reverse Engineering from Scratch (FR)](https://www.youtube.com/watch?v=FGiS0pTf1x4&t=1092s)
