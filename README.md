@@ -4,11 +4,11 @@
 
 <h3> 👩‍🔬 42 Common Core: Software Engineering</h3>
 
-  - [Click here for full access to 42 school 👩‍🔬 common core projects](https://github.com/cduffaut/42-projects-while-common-core)
+  - [Click here for full access to 42 school common core projects](https://github.com/cduffaut/42-projects-while-common-core)
 
 <h3> 🔐 42 Specialization: Cybersecurity</h3>
 
-  - [Click here for full access to 42 school 🔐 cybersecurity projects](https://github.com/cduffaut/42-projects-specializing-in-cybersecurity)
+  - [Click here for full access to 42 school cybersecurity projects](https://github.com/cduffaut/42-projects-specializing-in-cybersecurity)
     
 <h3> 🗃️ All Projects</h3>
 
