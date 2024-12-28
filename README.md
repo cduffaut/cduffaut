@@ -12,7 +12,7 @@
     
 <h3> 🗃️ All Projects</h3>
 
-  - [Click here for full access to 🗃️ all the projects created](https://github.com/cduffaut?tab=repositories)
+  - [Click here for full access to all the projects created](https://github.com/cduffaut?tab=repositories)
 
 <h2>📺 YouTube videos</h2>
 
