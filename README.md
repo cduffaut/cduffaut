@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Explore my software development projects!</h2>
 
+<h3> 💻 x 📱 42 Specialization: Web & Mobile Development</h3>
+
+  - [Click here for full access to Web & Mobile Development Specialization projects](https://github.com/cduffaut/RNCP-6-Web-And-Mobile-Development-Specialization)
+
 <h3> 👩‍🔬 42 Common Core: Software Engineering</h3>
 
   - [Click here for full access to 42 school common core projects](https://github.com/cduffaut/42-projects-while-common-core)
