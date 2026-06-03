@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cécile! <br/><a href="https://github.com/cduffaut">Programmer</a>, <a href="https://www.linkedin.com/in/cécile-duffaut-7524b8305/">Security & Backend Development</a></h1>
+<h1>Hi, I'm Cécile! <br/><a href="https://github.com/cduffaut">Programmer</a>, <a href="https://www.linkedin.com/in/cécile-duffaut-7524b8305/">Golang Backend Development</a></h1>
 
 <h2>👨‍💻 Explore my software development projects!</h2>
 
