@@ -1,6 +1,6 @@
 # Hi, I'm Cécile | Go Backend Developer | Freelance
 
-Building backend systems in Go.
+Building backend systems in Go (Golang).
 
 ---
 
