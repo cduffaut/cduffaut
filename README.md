@@ -1,4 +1,4 @@
-# Hi, I'm Cécile | Go Backend Developer | Freelance
+# Hi, I'm Cécile | Go Backend Developer
 
 Building backend systems in Go (Golang).
 
