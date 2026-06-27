@@ -20,4 +20,4 @@ Systems programming, web & mobile, cybersecurity | C, Unix, algorithms.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/cécile-duffaut-7524b8305/) · [YouTube](https://www.youtube.com/@cecilealicemarie)
+[LinkedIn](https://www.linkedin.com/in/cécileduffaut/) · [YouTube](https://www.youtube.com/@cecile-yt)
